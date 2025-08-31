@@ -55,4 +55,9 @@ The dashboard provides a **data-driven healthcare management system** that helps
 
 ---
 
-## 📂 Project Structure
+## 🤝 Connect with Me
+👤 **Arbaz Khan**  
+- 📧 Email: [arbazkhan21223@gmail.com](mailto:arbazkhan21223@gmail.com)  
+- 💼 LinkedIn: [Arbaz-Data-Analyst](https://www.linkedin.com/in/arbaz-data-analyst/)  
+- 🌐 Portfolio: [Developer Arbaz](https://developer-arbaz.github.io/developerarbaz.github.io/)  
+- 🐙 GitHub: [developer-arbaz](https://github.com/developer-arbaz)  
